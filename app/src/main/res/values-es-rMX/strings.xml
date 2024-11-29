@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculadoraM2</string>
+
+    <!-- Claves para los tipos de terreno -->
+    <string-array name="terrain_type_array_keys">
+        <item>regular</item>
+        <item>irregular</item>
+    </string-array>
+
+    <!-- Valores visibles para los tipos de terreno -->
+    <string-array name="terrain_type_array">
+        <item>Terreno Regular</item>
+        <item>Terreno Irregular</item>
+    </string-array>
+
+    <!-- Claves para las unidades -->
+    <string-array name="units_array_keys">
+        <item>meters</item>
+        <item>feet</item>
+    </string-array>
+
+    <!-- Valores visibles para las unidades -->
+    <string-array name="units_array">
+        <item>Metros</item>
+        <item>Pies</item>
+    </string-array>
+
+    <!-- Otros textos -->
+    <string name="calculator">Calcular</string>
+    <string name="result_label">Resultado: </string>
+    <string name="error_message">Por favor, introduce valores válidos</string>
+
+    <!-- Textos para ancho y altura -->
+    <string name="width_hint">Ancho (m)</string>
+    <string name="height_hint">Altura (m)</string>
+</resources>

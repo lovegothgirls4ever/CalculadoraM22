@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculatorM2</string>
+
+    <!-- Keys for terrain types -->
+    <string-array name="terrain_type_array_keys">
+        <item>regular</item>
+        <item>irregular</item>
+    </string-array>
+
+    <!-- Visible values for terrain types -->
+    <string-array name="terrain_type_array">
+        <item>Regular Terrain</item>
+        <item>Irregular Terrain</item>
+    </string-array>
+
+    <!-- Keys for units -->
+    <string-array name="units_array_keys">
+        <item>meters</item>
+        <item>feet</item>
+    </string-array>
+
+    <!-- Visible values for units -->
+    <string-array name="units_array">
+        <item>Meters</item>
+        <item>Feet</item>
+    </string-array>
+
+    <!-- Other texts -->
+    <string name="calculator">To Calculate</string>
+    <string name="result_label">Result: </string>
+    <string name="error_message">Please enter valid values</string>
+
+    <!-- Texts for width and height -->
+    <string name="width_hint">Width (m)</string>
+    <string name="height_hint">Height (m)</string>
+</resources>
